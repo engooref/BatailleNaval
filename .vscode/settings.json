@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "navy.h": "c",
+        "printconsole.h": "c",
+        "signal.h": "c",
+        "string.h": "c",
+        "app.h": "c",
+        "macro.h": "c",
+        "player.h": "c",
+        "signalhandler.h": "c",
+        "signaltraitement.h": "c",
+        "printmap.h": "c",
+        "unistd.h": "c",
+        "ioconsole.h": "c"
+    }
+}
